@@ -14,10 +14,10 @@ Assignment for ANN, main part is Task 4 & 5, classification with PyTorch, FNN & 
 Big data in Bioinformatics:
 Classification using CNN keras.
 
-Other projects:
+Other projects: Everything is written with keras
 
-Manually implemented RES for CIFAR10
+Manually implemented RES layers for data set CIFAR10
 
 Regularized dense layers for MNIST and grid search with KerasClassifier
 
-Fashion MNIST CNN early stopping
+Fashion MNIST CNN with early stopping
