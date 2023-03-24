@@ -11,8 +11,8 @@ Code written with PyTorch.
 Automatiserad predectiv modellering:
 Assignment for ANN, main part is Task 4 & 5, classification with PyTorch, FNN & CNN.
 
-Big data in Bioinformatics:
-Classification using CNN keras.
+Master thesis:
+Neural netwrok for regression and classification
 
 Other projects: Everything is written with keras
 
